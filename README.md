@@ -93,9 +93,9 @@ I'm a passionate **Software Developer** specializing in **Flutter** and **React.
 ```javascript
 const yousef = {
   pronouns: "he" | "him",
-  code: ["JavaScript", "Dart", "C++", "C#", "HTML", "CSS"],
+  code: ["Dart", "C++", "C#", "JavaScript", "HTML", "CSS"],
   frameworks: ["Flutter", "React.js", "Bootstrap", "Material-UI"],
   tools: ["Android Studio", "Firebase", "Git", "Figma", "Adobe XD", "Trello", "Slack"],
-  interests: ["Mobile Development", "Web Development", "UI/UX Design"],
+  interests: ["Mobile Development", "Web Development"],
   challenge: "To build tools that empower communities through technology!"
 };
