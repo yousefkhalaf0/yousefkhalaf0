@@ -41,16 +41,13 @@ I'm a passionate **Software Developer** specializing in **Flutter** and **React.
 **Frameworks & Libraries:**  
 
 <a href="https://flutter.dev/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" style="width: 40px; height: 40px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" style="height: 40px;">
 </a>
 <a href="https://react.dev/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" style="width: 40px; height: 40px;">
 </a>
 <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" style="width: 40px; height: 40px;">
-</a>
-<a href="https://mui.com/" target="_blank">
-    ![Material--UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat-square&logo=mui&logoColor=white)
 </a>
 
 **Tools & Platforms:**  
@@ -73,13 +70,6 @@ I'm a passionate **Software Developer** specializing in **Flutter** and **React.
 <a href="https://www.adobe.com/products/xd.html" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="Adobe XD" style="width: 40px; height: 40px;">
 </a>
-<a href="https://trello.com/" target="_blank">
-    ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
-</a>
-<a href="https://slack.com/" target="_blank">
-    ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
-</a>
-
 
 ---
 
