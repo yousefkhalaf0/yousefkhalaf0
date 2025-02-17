@@ -1,13 +1,14 @@
 <div align="center">
   <h1>Hello, I'm Yousef Mohamed!</h1>
   <br>
-  <strong>Flutter Developer | React.js Developer | Software Developer</strong>
+  <h2>Flutter Developer | React.js Developer | Software Developer</h2>
 </div>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=yousefkhalaf0&color=000000&style=plastic)](https://github.com/yousefkhalaf0)
-
-###  About Me
 I'm a passionate **Software Developer** specializing in **Flutter** and **React.js**, with a knack for building intuitive mobile and web applications. I thrive on solving real-world problems through clean, efficient code and collaborative teamwork. Let's create something amazing!
+
+###Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yousefkhalaf0)
 
 ---
 
@@ -56,7 +57,6 @@ I'm a passionate **Software Developer** specializing in **Flutter** and **React.
 
 ###  A Little More About Me...
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yousefkhalaf0)
 ```javascript
 const yousef = {
   pronouns: "he" | "him",
