@@ -75,7 +75,6 @@ I'm a passionate **Software Developer** specializing in **Flutter** and **React.
   ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 </a>
 <a href="https://www.adobe.com/products/xd.html" target="_blank">  
-  
   ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 </a>
 
