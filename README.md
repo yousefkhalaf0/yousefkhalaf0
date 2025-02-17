@@ -70,13 +70,6 @@ I'm a passionate **Software Developer** specializing in **Flutter** and **React.
 <a href="https://www.adobe.com/products/xd.html" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="Adobe XD" style="height: 40px;">
 </a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank">
-  
-  ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
-</a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank">  
-  ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
-</a>
 
 ---
 
