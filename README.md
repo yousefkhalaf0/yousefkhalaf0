@@ -1,7 +1,7 @@
 # Hi, I'm Yousef Mohamed! 👋
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue&style=flat-square)](https://github.com/YourGitHubUsername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/YourLinkedInUsername)
+[![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue&style=flat-square)](https://github.com/yousefkhalaf0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yousefkhalaf0)
 
 **Flutter Developer | React.js Developer | Software Developer**
 
