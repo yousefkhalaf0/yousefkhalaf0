@@ -6,12 +6,12 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 I'm a passionate **Software Developer** specializing in **Flutter** and **React.js**, with a knack for building intuitive mobile and web applications. I thrive on solving real-world problems through clean, efficient code and collaborative teamwork. Let's create something amazing!
 
 ---
 
-### 🛠️ Technologies & Tools
+###  Technologies & Tools
 
 **Languages:**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -39,7 +39,7 @@ I'm a passionate **Software Developer** specializing in **Flutter** and **React.
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <table align="center">
   <tr>
