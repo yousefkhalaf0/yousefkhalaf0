@@ -52,10 +52,10 @@ I'm a passionate **Software Developer** specializing in **Flutter** and **React.
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=YourGitHubUsername&theme=radical&hide_border=true" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=yousefkhalaf0&theme=radical&hide_border=true" alt="GitHub Streak" />
     </td>
     <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical&row=2&column=3" alt="GitHub Trophies" />
+      <img src="https://github-profile-trophy.vercel.app/?username=yousefkhalaf0&theme=radical&row=2&column=3" alt="GitHub Trophies" />
     </td>
   </tr>
 </table>
