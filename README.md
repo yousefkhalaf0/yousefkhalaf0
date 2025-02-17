@@ -42,12 +42,6 @@ I'm a passionate **Software Developer** specializing in **Flutter** and **React.
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yousefkhalaf0&show_icons=true&theme=graywhite)
-
----
-
-### 📊 Dynamic GitHub Stats
-
 <!-- GitHub Streak & Trophies -->
 <table align="center">
   <tr>
