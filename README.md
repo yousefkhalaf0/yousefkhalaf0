@@ -1,8 +1,13 @@
-# Hello, I'm Yousef Mohamed! 
+<p align="center">
+  <h1>Hello, I'm Yousef Mohamed!</h1>
+  <strong>Flutter Developer | React.js Developer | Software Developer</strong>
+</p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=yousefkhalaf0&color=000000&style=plastic)](https://github.com/yousefkhalaf0)
-
-**Flutter Developer | React.js Developer | Software Developer**
+<p align="center">
+  <a href="https://github.com/yousefkhalaf0">
+    <img src="https://komarev.com/ghpvc/?username=yousefkhalaf0&color=000000&style=plastic" alt="Profile Views">
+  </a>
+</p>
 
 ---
 
