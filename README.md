@@ -37,7 +37,6 @@ I'm a passionate **Software Developer** specializing in **Flutter** and **React.
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" style="height: 40px;">
 </a>
-<br>
 
 **Frameworks & Libraries:**  
 
@@ -50,7 +49,6 @@ I'm a passionate **Software Developer** specializing in **Flutter** and **React.
 <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" style="height: 40px;">
 </a>
-<br>
 
 **Tools & Platforms:**  
 
@@ -72,6 +70,10 @@ I'm a passionate **Software Developer** specializing in **Flutter** and **React.
 <a href="https://www.adobe.com/products/xd.html" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="Adobe XD" style="height: 40px;">
 </a>
+
+![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
+
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 
 ---
 
