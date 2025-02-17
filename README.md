@@ -2,8 +2,6 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=yousefkhalaf0&color=green&style=plastic)](https://github.com/yousefkhalaf0)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yousefkhalaf0)
-
 **Flutter Developer | React.js Developer | Software Developer**
 
 ---
@@ -57,7 +55,7 @@ I'm a passionate **Software Developer** specializing in **Flutter** and **React.
 
 ---
 
-###  A Little More About Me...
+###  A Little More About Me... [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yousefkhalaf0)
 
 ```javascript
 const yousef = {
