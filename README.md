@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-I'm a passionate **Software Developer** with expertise in **Flutter** and **React.js**, dedicated to building user-centric and scalable applications. I thrive on solving real-world problems through clean, efficient code and innovative solutions. Whether it's mobile apps, web platforms, or e-learning tools, I love bringing ideas to life!
+I'm a passionate **Software Developer** specializing in **Flutter** and **React.js**, with a knack for building intuitive mobile and web applications. I thrive on solving real-world problems through clean, efficient code and collaborative teamwork. Let's create something amazing!
 
 ---
 
@@ -17,6 +17,8 @@ I'm a passionate **Software Developer** with expertise in **Flutter** and **Reac
 **Languages:**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -27,10 +29,14 @@ I'm a passionate **Software Developer** with expertise in **Flutter** and **Reac
 ![Material--UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat-square&logo=mui&logoColor=white)
 
 **Tools & Platforms:**  
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe%20XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 
 ---
 
@@ -40,14 +46,30 @@ I'm a passionate **Software Developer** with expertise in **Flutter** and **Reac
 
 ---
 
+### 📊 Dynamic GitHub Stats
+
+<!-- GitHub Streak & Trophies -->
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=YourGitHubUsername&theme=radical&hide_border=true" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical&row=2&column=3" alt="GitHub Trophies" />
+    </td>
+  </tr>
+</table>
+
+---
+
 ###  A Little More About Me...
 
 ```javascript
 const yousef = {
   pronouns: "he" | "him",
-  code: ["JavaScript", "Dart", "HTML", "CSS"],
+  code: ["JavaScript", "Dart", "C++", "C#", "HTML", "CSS"],
   frameworks: ["Flutter", "React.js", "Bootstrap", "Material-UI"],
-  tools: ["Firebase", "Git", "VS Code", "Figma"],
-  interests: ["Mobile Development", "Web Development", "E-Learning Platforms"],
-  challenge: "To build innovative solutions that make a positive impact!"
+  tools: ["Android Studio", "Firebase", "Git", "Figma", "Adobe XD", "Trello", "Slack"],
+  interests: ["Mobile Development", "Web Development", "UI/UX Design"],
+  challenge: "To build tools that empower communities through technology!"
 };
