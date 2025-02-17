@@ -41,7 +41,7 @@ I'm a passionate **Software Developer** specializing in **Flutter** and **React.
 **Frameworks & Libraries:**  
 
 <a href="https://flutter.dev/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" style="height: 40px;">
+    <img src="https://camo.githubusercontent.com/2167e144b868512a0723b3556c44410b6fb52a0e569ef5f2768232b8b705c649/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f666c7574746572696f2f666c7574746572696f2d69636f6e2e737667" alt="Flutter" style="height: 40px;">
 </a>
 <a href="https://react.dev/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" style="height: 40px;">
