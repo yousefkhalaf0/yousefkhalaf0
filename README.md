@@ -18,8 +18,8 @@ I'm a passionate **Software Developer** specializing in **Flutter** and **React.
 ###  Technologies & Tools
 
 **Languages:**  
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" style="width: 40px; height: 40px; margin-right: 90px;">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="display: inline-block; margin-right: 90px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" style="width: 40px; height: 40px;">
 </a>
 <a href="https://dart.dev/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart" style="width: 40px; height: 40px; margin-right: 15px;">
