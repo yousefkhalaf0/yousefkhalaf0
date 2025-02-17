@@ -3,11 +3,7 @@
   <strong>Flutter Developer | React.js Developer | Software Developer</strong>
 </p>
 
-<p align="center">
-  <a href="https://github.com/yousefkhalaf0">
-    <img src="https://komarev.com/ghpvc/?username=yousefkhalaf0&color=000000&style=plastic" alt="Profile Views">
-  </a>
-</p>
+
 
 ---
 
