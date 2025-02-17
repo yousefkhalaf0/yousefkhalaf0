@@ -59,7 +59,7 @@ I'm a passionate **Software Developer** specializing in **Flutter** and **React.
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" alt="Firebase" style="height: 40px;">
 </a>
 <a href="https://git-scm.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" style="width: 40px; height: 40px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" style="height: 40px;">
 </a>
 <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" style="width: 40px; height: 40px;">
