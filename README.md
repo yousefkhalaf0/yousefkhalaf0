@@ -37,6 +37,7 @@ I'm a passionate **Software Developer** specializing in **Flutter** and **React.
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" style="width: 40px; height: 40px;">
 </a>
+<br>
 
 **Frameworks & Libraries:**  
 
@@ -49,6 +50,7 @@ I'm a passionate **Software Developer** specializing in **Flutter** and **React.
 <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" style="width: 40px; height: 40px;">
 </a>
+<br>
 
 **Tools & Platforms:**  
 
