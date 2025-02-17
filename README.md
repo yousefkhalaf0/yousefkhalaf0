@@ -1,11 +1,10 @@
 <div align="center">
   <h1>Hello, I'm Yousef Mohamed!</h1>
+  <br>
   <strong>Flutter Developer | React.js Developer | Software Developer</strong>
 </div>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=yousefkhalaf0&color=000000&style=plastic)](https://github.com/yousefkhalaf0)
-
----
 
 ###  About Me
 I'm a passionate **Software Developer** specializing in **Flutter** and **React.js**, with a knack for building intuitive mobile and web applications. I thrive on solving real-world problems through clean, efficient code and collaborative teamwork. Let's create something amazing!
