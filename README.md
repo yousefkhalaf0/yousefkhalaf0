@@ -73,21 +73,6 @@ I'm a passionate **Software Developer** specializing in **Flutter** and **React.
 
 ---
 
-###  GitHub Stats
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=yousefkhalaf0&theme=radical&hide_border=true" alt="GitHub Streak" />
-    </td>
-    <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=yousefkhalaf0&theme=graywhite&row=2&column=3" alt="GitHub Trophies" />
-    </td>
-  </tr>
-</table>
-
----
-
 ###  A Little More About Me...
 
 ```javascript
