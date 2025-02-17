@@ -1,7 +1,7 @@
-<p align="center">
+<div align="center">
   <h1>Hello, I'm Yousef Mohamed!</h1>
   <strong>Flutter Developer | React.js Developer | Software Developer</strong>
-</p>
+</div>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=yousefkhalaf0&color=000000&style=plastic)](https://github.com/yousefkhalaf0)
 
