@@ -41,7 +41,6 @@ I'm a passionate **Software Developer** specializing in **Flutter** and **React.
 
 ### 📊 GitHub Stats
 
-<!-- GitHub Streak & Trophies -->
 <table align="center">
   <tr>
     <td>
