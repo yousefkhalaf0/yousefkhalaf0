@@ -1,6 +1,6 @@
 # Hello, I'm Yousef Mohamed! 
 
-[![Profile Views](https://komarev.com/ghpvc/?username=yousefkhalaf0&color=gray&style=plastic)](https://github.com/yousefkhalaf0)
+[![Profile Views](https://komarev.com/ghpvc/?username=yousefkhalaf0&color=2f4f4f&style=plastic)](https://github.com/yousefkhalaf0)
 
 **Flutter Developer | React.js Developer | Software Developer**
 
