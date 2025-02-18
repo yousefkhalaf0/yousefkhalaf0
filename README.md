@@ -25,17 +25,17 @@ I'm a passionate **Software Developer** specializing in **Flutter** and **React.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" style="height: 40px;">
 </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" style="height: 40px;">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" style="height: 40px;">
+</a>
 <a href="https://isocpp.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" style="height: 40px;">
 </a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" style="width: 40px;">
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" style="height: 40px;">
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" style="height: 40px;">
 </a>
 
 **Frameworks & Libraries:**  
