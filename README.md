@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/736x/d0/f6/ed/d0f6ed7da8b92282630b2e17361f60a8.jpg" alt="MasterHead" style="width: 100%; height: 90%;">
+  <img src="https://i.pinimg.com/736x/d0/f6/ed/d0f6ed7da8b92282630b2e17361f60a8.jpg" alt="MasterHead" style="width: 100%; height: 50%;">
 </div>
 
 <div align="center">
