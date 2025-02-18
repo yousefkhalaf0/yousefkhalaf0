@@ -55,20 +55,14 @@ I'm a passionate **Software Developer** specializing in **Flutter** and **React.
 <a href="https://developer.android.com/studio" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Trademark.svg" alt="Android Studio" style="height: 40px;">
 </a>
-<a href="https://firebase.google.com/" target="_blank">
-    <img src="https://camo.githubusercontent.com/f19579bd4b5f0b9812474d8109d5882710dad0399d94497a26ea79dc01dea234/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" alt="Firebase" style="height: 40px;">
+<a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" style="height: 40px;">
 </a>
 <a href="https://git-scm.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" style="height: 40px;">
 </a>
-<a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" style="height: 40px;">
-</a>
-<a href="https://www.figma.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" style="height: 40px;">
-</a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="Adobe XD" style="height: 40px;">
+<a href="https://firebase.google.com/" target="_blank">
+    <img src="https://camo.githubusercontent.com/f19579bd4b5f0b9812474d8109d5882710dad0399d94497a26ea79dc01dea234/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" alt="Firebase" style="height: 40px;">
 </a>
 <a href="https://postman.com/" target="_blank">
     <img src="https://camo.githubusercontent.com/5c2595c2fcc9ef7ffa97d14f868547d945d5cee65045377c7c34611b5a67c139/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" style="height: 40px;">
@@ -76,9 +70,12 @@ I'm a passionate **Software Developer** specializing in **Flutter** and **React.
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
     <img src="https://camo.githubusercontent.com/29dde2a136637475ff7726f780237361f2f1915e8e37b67fadb0b2eb5af21478/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3330333232392f6d6963726f736f66742d73716c2d7365727665722d6c6f676f2e737667" alt="ms sql server" style="height: 40px;">
 </a>
-
-
-
+<a href="https://www.figma.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" style="height: 40px;">
+</a>
+<a href="https://www.adobe.com/products/xd.html" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="Adobe XD" style="height: 40px;">
+</a>
 
 ---
 
