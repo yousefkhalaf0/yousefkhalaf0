@@ -15,8 +15,9 @@ I'm a passionate **Software Developer** specializing in **Flutter** and **React.
 
 ###  Connect with me:
 
+[![Email](https://img.shields.io/badge/Email-Me-red?style=flat&logo=gmail)](mailto:yousefkhalaf567@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yousefkhalaf0)
-[![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:yousefkhalaf567@gmail.com)
 
 ---
 
