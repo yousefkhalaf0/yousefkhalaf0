@@ -71,7 +71,7 @@ I'm a passionate **Software Developer** specializing in **Flutter** and **React.
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="Adobe XD" style="height: 40px;">
 </a>
 <a href="https://www.adobe.com/products/xd.html" target="_blank">
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg](https://camo.githubusercontent.com/5c2595c2fcc9ef7ffa97d14f868547d945d5cee65045377c7c34611b5a67c139/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667)" alt="Adobe XD" style="height: 40px;">
+    <img src="https://camo.githubusercontent.com/5c2595c2fcc9ef7ffa97d14f868547d945d5cee65045377c7c34611b5a67c139/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="Adobe XD" style="height: 40px;">
 </a>
 
 ---
