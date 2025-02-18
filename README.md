@@ -38,7 +38,6 @@ I'm a passionate **Software Developer** specializing in **Flutter** and **React.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" style="width: 40px;">
 </a>
 <br>
-<br>
 
 **Frameworks & Libraries:**  
 
@@ -51,6 +50,7 @@ I'm a passionate **Software Developer** specializing in **Flutter** and **React.
 <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" style="height: 40px;">
 </a>
+<br>
 
 **Tools & Platforms:**  
 
