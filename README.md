@@ -1,4 +1,7 @@
-<img src="https://i.pinimg.com/474x/8c/ea/af/8ceaaf5a9020ffd8986a0c7f55f278bb.jpg" alt="MasterHead" style="max-width: 100%;">
+<div align="center">
+  <img src="https://i.pinimg.com/474x/8c/ea/af/8ceaaf5a9020ffd8986a0c7f55f278bb.jpg" alt="MasterHead" style="width: 100%; height: auto;">
+</div>
+
 <div align="center">
   <h1>Hello, I'm Yousef Mohamed!</h1>
   <h3>Flutter Developer | React.js Developer | Software Developer</h3>
