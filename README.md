@@ -37,6 +37,8 @@ I'm a passionate **Software Developer** specializing in **Flutter** and **React.
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" style="width: 40px;">
 </a>
+<br>
+<br>
 
 **Frameworks & Libraries:**  
 
