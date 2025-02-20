@@ -100,6 +100,6 @@ const yousef = {
   code: ["Dart", "JavaScript", "HTML", "CSS", "C++", "C#"],
   frameworks: ["Flutter", "React.js", "Bootstrap", "Material-UI"],
   tools: ["Android Studio", "VS Code", "Firebase", "Postman", "MS SQL Server", "Git", "Figma", "Adobe XD", "Trello", "Slack"],
-  interests: ["Mobile Development", "Web Development"],
+  interests: ["Mobile Development", "Web Development", "Weightlifting ", "Adventure", "Automotive", "E-Gaming"],
   challenge: "To build tools that empower communities through technology!"
 };
