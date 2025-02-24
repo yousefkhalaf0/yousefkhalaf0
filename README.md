@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>Hello, I'm Yousef Mohamed!</h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hello%2C;I+am+Yousef+Khalaf;Software+Developer." alt="Typing SVG" /></a>
   <h3>Flutter Developer | React.js Developer | Software Developer</h3>
 </div>
 <br>
