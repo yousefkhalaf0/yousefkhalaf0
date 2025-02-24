@@ -25,7 +25,7 @@ I’m a **Software Developer** specializing in **Flutter** and **React.js**, pas
 
 ###  Technologies & Tools
 
-**Languages:**
+**Programming and Markup Languages:**
 
 <a href="https://dart.dev/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart" style="height: 40px;">
