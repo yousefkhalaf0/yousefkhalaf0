@@ -38,7 +38,6 @@ I’m a **Software Developer** specializing in **Flutter** and **React.js**, pas
 <a href="https://en.wikipedia.org/wiki/SQL"><img alt="SQL" src="https://camo.githubusercontent.com/24ae24700452e4ef07bcd3dd4319a59f94d5fde68e6294686c5bab5937393330/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f53514c2d3032354538432e7376673f6c6f676f3d6461746162617365266c6f676f436f6c6f723d7768697465" data-canonical-src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://camo.githubusercontent.com/a15c826b2856f0096f47fd50ab2b6ac956555e0120bdc9c63d1208ed541476e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143432e7376673f6c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://dart.dev/"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2.svg?logo=dart&logoColor=white" data-canonical-src="https://img.shields.io/badge/Dart-0175C2.svg?logo=dart&logoColor=white" style="max-width: 100%;"></a>
-
 <br>
 
 **Frameworks & Libraries:**  
@@ -58,14 +57,37 @@ I’m a **Software Developer** specializing in **Flutter** and **React.js**, pas
 <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" style="max-width: 100%;">
 </a>
-
 <br>
 
-**Tools & Platforms:**  
-
-
-
 **Databases and Cloud Hosting:**
+
+<a href="https://pages.github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Pages-222222?logo=githubpages&logoColor=white" alt="GitHub Pages" style="max-width: 100%;">
+</a>
+<a href="https://vercel.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel" style="max-width: 100%;">
+</a>
+<a href="https://www.notion.so/" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white" alt="Notion" style="max-width: 100%;">
+</a>
+<a href="https://replit.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Repl.it-667881?logo=replit&logoColor=white" alt="Repl.it" style="max-width: 100%;">
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" style="max-width: 100%;">
+</a>
+<a href="https://www.sqlite.org/" target="_blank">
+    <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite" style="max-width: 100%;">
+</a>
+<a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase" style="max-width: 100%;">
+</a>
+<a href="https://supabase.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" alt="Supabase" style="max-width: 100%;">
+</a>
+<br>
+
+**Tools & Platforms:**
 
 <a href="https://developer.android.com/studio" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Trademark.svg" alt="Android Studio" style="height: 40px;">
