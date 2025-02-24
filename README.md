@@ -52,6 +52,7 @@ I’m a **Software Developer** specializing in **Flutter** and **React.js**, pas
 <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" style="max-width: 100%;"></a>
 <br>
+<br>
 
 **Databases and Cloud Hosting:**
 
@@ -72,6 +73,7 @@ I’m a **Software Developer** specializing in **Flutter** and **React.js**, pas
 <a href="https://supabase.com/" target="_blank">
     <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" alt="Supabase" style="max-width: 100%;"></a>
 <br>
+<br>
 
 **Tools & Platforms:**
 
@@ -81,20 +83,24 @@ I’m a **Software Developer** specializing in **Flutter** and **React.js**, pas
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code" style="max-width: 100%;"></a>
 <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" style="max-width: 100%;"></a>
-<a href="https://postman.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" style="max-width: 100%;"></a>
-<a href="https://www.figma.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" style="max-width: 100%;"></a>
-<a href="https://discord.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Discord" style="max-width: 100%;"></a>
-<a href="https://obsproject.com/" target="_blank">
-    <img src="https://img.shields.io/badge/OBS-302E31?logo=obsstudio&logoColor=white" alt="OBS" style="max-width: 100%;"></a>
 <a href="https://stackoverflow.com/" target="_blank">
     <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white" alt="Stack Overflow" style="max-width: 100%;"></a>
+<a href="https://postman.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" style="max-width: 100%;"></a>
+<a href="https://slack.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" alt="Slack" style="max-width: 100%;"></a>
+<a href="https://trello.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white" alt="Trello" style="max-width: 100%;"></a>
+<a href="https://www.figma.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" style="max-width: 100%;"></a>
 <a href="https://www.adobe.com/" target="_blank">
     <img src="https://img.shields.io/badge/Adobe-FF0000?logo=adobe&logoColor=white" alt="Adobe" style="max-width: 100%;"></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank">
     <img src="https://img.shields.io/badge/MS%20Office%20365-D83B01?logo=microsoftoffice&logoColor=white" alt="MS Office 365" style="max-width: 100%;"></a>
+<a href="https://obsproject.com/" target="_blank">
+    <img src="https://img.shields.io/badge/OBS-302E31?logo=obsstudio&logoColor=white" alt="OBS" style="max-width: 100%;"></a>
+<a href="https://discord.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Discord" style="max-width: 100%;"></a>
 <a href="https://store.steampowered.com/" target="_blank">
     <img src="https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white" alt="Steam" style="max-width: 100%;"></a>
 <a href="https://store.epicgames.com/" target="_blank">
