@@ -116,6 +116,18 @@ I’m a **Software Developer** specializing in **Flutter** and **React.js**, pas
 <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank">
     <img src="https://img.shields.io/badge/MS%20Office%20365-D83B01?logo=microsoftoffice&logoColor=white" alt="MS Office 365" style="max-width: 100%;">
 </a>
+<a href="https://store.steampowered.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white" alt="Steam" style="max-width: 100%;">
+</a>
+<a href="https://store.epicgames.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Epic%20Games-313131?logo=epicgames&logoColor=white" alt="Epic Games" style="max-width: 100%;">
+</a>
+<a href="https://www.ea.com/" target="_blank">
+    <img src="https://img.shields.io/badge/EA%20Games-000000?logo=ea&logoColor=white" alt="EA Games" style="max-width: 100%;">
+</a>
+<a href="https://www.xbox.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Xbox-107C10?logo=xbox&logoColor=white" alt="Xbox" style="max-width: 100%;">
+</a>
 
 ---
 
