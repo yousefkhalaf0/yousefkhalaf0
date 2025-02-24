@@ -17,15 +17,17 @@ I’m a **Software Developer** specializing in **Flutter** and **React.js**, pas
 
 ---
 
-###  Connect with me:
+### <details>
+<summary>Connect with me</summary>
 
 [![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:yousefkhalaf567@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yousefkhalaf0)
 
----
+</details>
 
-###  Technologies & Tools
+### <details>
+<summary>Technologies & Tools</summary>
 
 **Programming and Markup Languages:**
 
@@ -110,9 +112,10 @@ I’m a **Software Developer** specializing in **Flutter** and **React.js**, pas
 <a href="https://www.apple.com/itunes/" target="_blank">
     <img src="https://img.shields.io/badge/iTunes-FB5BC5?logo=itunes&logoColor=white" alt="iTunes" style="max-width: 100%;"></a>
 
----
+</details>
 
-###  A Little More About Me...
+### <details>
+<summary>A Little More About Me...</summary>
 
 ```javascript
 const yousef = {
@@ -124,3 +127,4 @@ const yousef = {
   interests: ["Mobile Development", "Web Development", "Weightlifting ", "Adventure", "Automotive", "E-Gaming"],
   challenge: "To build tools that empower communities through technology!"
 };
+</details> ```
