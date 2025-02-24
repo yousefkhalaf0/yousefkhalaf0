@@ -42,95 +42,69 @@ I’m a **Software Developer** specializing in **Flutter** and **React.js**, pas
 **Frameworks & Libraries:**  
 
 <a href="https://flutter.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter" style="max-width: 100%;">
-</a>
+    <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter" style="max-width: 100%;"></a>
 <a href="https://react.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React.js" style="max-width: 100%;">
-</a>
+    <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React.js" style="max-width: 100%;"></a>
 <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap" style="max-width: 100%;">
-</a>
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap" style="max-width: 100%;"></a>
 <a href="https://mui.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=white" alt="Material-UI" style="max-width: 100%;">
-</a>
+    <img src="https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=white" alt="Material-UI" style="max-width: 100%;"></a>
 <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" style="max-width: 100%;">
-</a><br>
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" style="max-width: 100%;"></a>
+<br>
 
 **Databases and Cloud Hosting:**
 
 <a href="https://pages.github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub%20Pages-222222?logo=githubpages&logoColor=white" alt="GitHub Pages" style="max-width: 100%;">
-</a>
+    <img src="https://img.shields.io/badge/GitHub%20Pages-222222?logo=githubpages&logoColor=white" alt="GitHub Pages" style="max-width: 100%;"></a>
 <a href="https://vercel.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel" style="max-width: 100%;">
-</a>
+    <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel" style="max-width: 100%;"></a>
 <a href="https://www.notion.so/" target="_blank">
-    <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white" alt="Notion" style="max-width: 100%;">
-</a>
+    <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white" alt="Notion" style="max-width: 100%;"></a>
 <a href="https://replit.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Repl.it-667881?logo=replit&logoColor=white" alt="Repl.it" style="max-width: 100%;">
-</a>
+    <img src="https://img.shields.io/badge/Repl.it-667881?logo=replit&logoColor=white" alt="Repl.it" style="max-width: 100%;"></a>
 <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" style="max-width: 100%;">
-</a>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" style="max-width: 100%;"></a>
 <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite" style="max-width: 100%;">
-</a>
+    <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite" style="max-width: 100%;"></a>
 <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase" style="max-width: 100%;">
-</a>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase" style="max-width: 100%;"></a>
 <a href="https://supabase.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" alt="Supabase" style="max-width: 100%;">
-</a><br>
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" alt="Supabase" style="max-width: 100%;"></a>
+<br>
 
 **Tools & Platforms:**
 
 <a href="https://developer.android.com/studio" target="_blank">
-    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white" alt="Android Studio" style="max-width: 100%;">
-</a>
+    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white" alt="Android Studio" style="max-width: 100%;"></a>
 <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code" style="max-width: 100%;">
-</a>
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code" style="max-width: 100%;"></a>
 <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" style="max-width: 100%;">
-</a>
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" style="max-width: 100%;"></a>
 <a href="https://postman.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" style="max-width: 100%;">
-</a>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" style="max-width: 100%;"></a>
 <a href="https://www.figma.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" style="max-width: 100%;">
-</a>
+    <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" style="max-width: 100%;"></a>
 <a href="https://discord.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Discord" style="max-width: 100%;">
-</a>
+    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Discord" style="max-width: 100%;"></a>
 <a href="https://obsproject.com/" target="_blank">
-    <img src="https://img.shields.io/badge/OBS-302E31?logo=obsstudio&logoColor=white" alt="OBS" style="max-width: 100%;">
-</a>
+    <img src="https://img.shields.io/badge/OBS-302E31?logo=obsstudio&logoColor=white" alt="OBS" style="max-width: 100%;"></a>
 <a href="https://stackoverflow.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white" alt="Stack Overflow" style="max-width: 100%;">
-</a>
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white" alt="Stack Overflow" style="max-width: 100%;"></a>
 <a href="https://www.adobe.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Adobe-FF0000?logo=adobe&logoColor=white" alt="Adobe" style="max-width: 100%;">
-</a>
+    <img src="https://img.shields.io/badge/Adobe-FF0000?logo=adobe&logoColor=white" alt="Adobe" style="max-width: 100%;"></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank">
-    <img src="https://img.shields.io/badge/MS%20Office%20365-D83B01?logo=microsoftoffice&logoColor=white" alt="MS Office 365" style="max-width: 100%;">
-</a>
+    <img src="https://img.shields.io/badge/MS%20Office%20365-D83B01?logo=microsoftoffice&logoColor=white" alt="MS Office 365" style="max-width: 100%;"></a>
 <a href="https://store.steampowered.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white" alt="Steam" style="max-width: 100%;">
-</a>
+    <img src="https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white" alt="Steam" style="max-width: 100%;"></a>
 <a href="https://store.epicgames.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Epic%20Games-313131?logo=epicgames&logoColor=white" alt="Epic Games" style="max-width: 100%;">
-</a>
+    <img src="https://img.shields.io/badge/Epic%20Games-313131?logo=epicgames&logoColor=white" alt="Epic Games" style="max-width: 100%;"></a>
 <a href="https://www.ea.com/" target="_blank">
-    <img src="https://img.shields.io/badge/EA%20Games-000000?logo=ea&logoColor=white" alt="EA Games" style="max-width: 100%;">
-</a>
+    <img src="https://img.shields.io/badge/EA%20Games-000000?logo=ea&logoColor=white" alt="EA Games" style="max-width: 100%;"></a>
 <a href="https://www.xbox.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Xbox-107C10?logo=xbox&logoColor=white" alt="Xbox" style="max-width: 100%;">
-</a>
+    <img src="https://img.shields.io/badge/Xbox-107C10?logo=xbox&logoColor=white" alt="Xbox" style="max-width: 100%;"></a>
 <a href="https://www.apple.com/itunes/" target="_blank">
-    <img src="https://img.shields.io/badge/iTunes-FB5BC5?logo=itunes&logoColor=white" alt="iTunes" style="max-width: 100%;">
-</a>
+    <img src="https://img.shields.io/badge/iTunes-FB5BC5?logo=itunes&logoColor=white" alt="iTunes" style="max-width: 100%;"></a>
 
 ---
 
