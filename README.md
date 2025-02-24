@@ -2,11 +2,8 @@
   <img src="https://i.pinimg.com/736x/d0/f6/ed/d0f6ed7da8b92282630b2e17361f60a8.jpg" alt="MasterHead" style="width: 100%;">
 </div>
 
-<div align="center">
   <br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hello%2C;I+am+Yousef+Khalaf;Software+Developer." alt="Typing SVG" /></a>
-  <h3>Flutter Developer | React.js Developer | Software Developer</h3>
-</div>
 <br>
 <br>
 
