@@ -51,6 +51,7 @@ I’m a **Software Developer** specializing in **Flutter** and **React.js**, pas
     <img src="https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=white" alt="Material-UI" style="max-width: 100%;"></a>
 <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" style="max-width: 100%;"></a><br>
+<br>
 
 **Databases and Cloud Hosting:**
 
@@ -70,6 +71,7 @@ I’m a **Software Developer** specializing in **Flutter** and **React.js**, pas
     <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase" style="max-width: 100%;"></a>
 <a href="https://supabase.com/" target="_blank">
     <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" alt="Supabase" style="max-width: 100%;"></a><br>
+<br>
 
 **Tools & Platforms:**
 
