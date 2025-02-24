@@ -43,15 +43,20 @@ I’m a **Software Developer** specializing in **Flutter** and **React.js**, pas
 **Frameworks & Libraries:**  
 
 <a href="https://flutter.dev/" target="_blank">
-    <img src="https://camo.githubusercontent.com/2167e144b868512a0723b3556c44410b6fb52a0e569ef5f2768232b8b705c649/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f666c7574746572696f2f666c7574746572696f2d69636f6e2e737667" alt="Flutter" style="height: 40px;">
+    <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter" style="max-width: 100%;">
 </a>
 <a href="https://react.dev/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" style="height: 40px;">
+    <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React.js" style="max-width: 100%;">
 </a>
 <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" style="height: 40px;">
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap" style="max-width: 100%;">
 </a>
-<br>
+<a href="https://mui.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=white" alt="Material-UI" style="max-width: 100%;">
+</a>
+<a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" style="max-width: 100%;">
+</a>
 <br>
 
 **Tools & Platforms:**  
