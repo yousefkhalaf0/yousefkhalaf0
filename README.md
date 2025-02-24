@@ -38,24 +38,7 @@ I’m a **Software Developer** specializing in **Flutter** and **React.js**, pas
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://camo.githubusercontent.com/24ae24700452e4ef07bcd3dd4319a59f94d5fde68e6294686c5bab5937393330/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f53514c2d3032354538432e7376673f6c6f676f3d6461746162617365266c6f676f436f6c6f723d7768697465" data-canonical-src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://camo.githubusercontent.com/a15c826b2856f0096f47fd50ab2b6ac956555e0120bdc9c63d1208ed541476e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143432e7376673f6c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&amp;logoColor=white" style="max-width: 100%;"></a>
 
-<a href="https://dart.dev/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart" style="height: 40px;">
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" style="height: 40px;">
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" style="height: 40px;">
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" style="height: 40px;">
-</a>
-<a href="https://isocpp.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" style="height: 40px;">
-</a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" style="width: 40px;">
-</a>
+<a href="https://dart.dev/"><img alt="Dart" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" style="max-width: 100%;"></a>
 <br>
 <br>
 
