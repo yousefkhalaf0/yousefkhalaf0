@@ -18,7 +18,7 @@ I’m a **Software Developer** specializing in **Flutter** and **React.js**, pas
 ---
 
 ### <details>
-<summary>Connect with me</summary>
+<summary><div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">📫 Connect with Me</h2><a id="user-content-connect-with-me" class="anchor" aria-label="Permalink: 📫 Connect with Me" href="#connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div></summary>
 
 [![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:yousefkhalaf567@gmail.com)
 
@@ -27,9 +27,9 @@ I’m a **Software Developer** specializing in **Flutter** and **React.js**, pas
 </details>
 
 ### <details>
-<summary>Technologies & Tools</summary>
+<summary><div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🛠️ Technologies & Tools</h2><a id="user-content-technologies--tools" class="anchor" aria-label="Permalink: 🛠️ Technologies & Tools" href="#technologies--tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div></summary>
 
-**Programming and Markup Languages:**
+#### 👨‍💻 Programming and Markup Languages
 
 <a href="https://isocpp.org/"><img alt="C++" src="https://camo.githubusercontent.com/671ab7e3bb84b06718454c88a6f0d47100e314b47ed836393d890da32ef30d9f/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f432b2b2d3943303333412e7376673f6c6f676f3d63707032266c6f676f436f6c6f723d7768697465" data-canonical-src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img alt="C#" src="https://camo.githubusercontent.com/3cfa72c37953fe734ac7011c046e0a8c13cbe53fe903638ab6791e675d92c9a5/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f432532332d3638323137412e7376673f6c6f676f3d637332266c6f676f436f6c6f723d7768697465" data-canonical-src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&amp;logoColor=white" style="max-width: 100%;"></a>
@@ -41,7 +41,7 @@ I’m a **Software Developer** specializing in **Flutter** and **React.js**, pas
 <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://camo.githubusercontent.com/a15c826b2856f0096f47fd50ab2b6ac956555e0120bdc9c63d1208ed541476e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143432e7376673f6c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://dart.dev/"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2.svg?logo=dart&logoColor=white" data-canonical-src="https://img.shields.io/badge/Dart-0175C2.svg?logo=dart&logoColor=white" style="max-width: 100%;"></a><br>
 
-**Frameworks & Libraries:**  
+#### 🧰 Frameworks and Libraries
 
 <a href="https://flutter.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter" style="max-width: 100%;"></a>
@@ -53,9 +53,8 @@ I’m a **Software Developer** specializing in **Flutter** and **React.js**, pas
     <img src="https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=white" alt="Material-UI" style="max-width: 100%;"></a>
 <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" style="max-width: 100%;"></a><br>
-<br>
 
-**Databases and Cloud Hosting:**
+#### 🗄️ Databases and Cloud Hosting
 
 <a href="https://pages.github.com/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub%20Pages-222222?logo=githubpages&logoColor=white" alt="GitHub Pages" style="max-width: 100%;"></a>
@@ -73,9 +72,8 @@ I’m a **Software Developer** specializing in **Flutter** and **React.js**, pas
     <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase" style="max-width: 100%;"></a>
 <a href="https://supabase.com/" target="_blank">
     <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" alt="Supabase" style="max-width: 100%;"></a><br>
-<br>
 
-**Tools & Platforms:**
+#### 🛠️ Tools and Platforms
 
 <a href="https://developer.android.com/studio" target="_blank">
     <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white" alt="Android Studio" style="max-width: 100%;"></a>
@@ -115,7 +113,7 @@ I’m a **Software Developer** specializing in **Flutter** and **React.js**, pas
 </details>
 
 ### <details>
-<summary>A Little More About Me...</summary>
+<summary><div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🧑‍💻 A Little More About Me...</h2><a id="user-content-a-little-more-about-me" class="anchor" aria-label="Permalink: 🧑‍💻 A Little More About Me..." href="#a-little-more-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div></summary>
 
 ```javascript
 const yousef = {
@@ -126,5 +124,6 @@ const yousef = {
   tools: ["Android Studio", "VS Code", "Firebase", "Postman", "MS SQL Server", "Git", "Figma", "Adobe XD", "Trello", "Slack"],
   interests: ["Mobile Development", "Web Development", "Weightlifting ", "Adventure", "Automotive", "E-Gaming"],
   challenge: "To build tools that empower communities through technology!"
-};
-</details> ```
+};```
+
+</details>
