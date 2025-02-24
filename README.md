@@ -39,7 +39,6 @@ I’m a **Software Developer** specializing in **Flutter** and **React.js**, pas
 <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://camo.githubusercontent.com/a15c826b2856f0096f47fd50ab2b6ac956555e0120bdc9c63d1208ed541476e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143432e7376673f6c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://dart.dev/"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2.svg?logo=dart&logoColor=white" data-canonical-src="https://img.shields.io/badge/Dart-0175C2.svg?logo=dart&logoColor=white" style="max-width: 100%;"></a>
 <br>
-<br>
 
 **Frameworks & Libraries:**  
 
