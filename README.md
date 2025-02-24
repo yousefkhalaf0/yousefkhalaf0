@@ -128,6 +128,9 @@ I’m a **Software Developer** specializing in **Flutter** and **React.js**, pas
 <a href="https://www.xbox.com/" target="_blank">
     <img src="https://img.shields.io/badge/Xbox-107C10?logo=xbox&logoColor=white" alt="Xbox" style="max-width: 100%;">
 </a>
+<a href="https://www.apple.com/itunes/" target="_blank">
+    <img src="https://img.shields.io/badge/iTunes-FB5BC5?logo=itunes&logoColor=white" alt="iTunes" style="max-width: 100%;">
+</a>
 
 ---
 
