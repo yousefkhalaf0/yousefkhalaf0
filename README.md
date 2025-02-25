@@ -25,8 +25,6 @@ I’m a **Software Developer** specializing in **Flutter** and **React.js**, pas
     <h2>Connect with me</h2>
   </summary>
 
-  <br>
-
 [![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:yousefkhalaf567@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yousefkhalaf0)
@@ -139,7 +137,7 @@ const yousef = {
   frameworks: ["Flutter", "React.js", "Bootstrap", "Material-UI"],
   tools: ["Android Studio", "VS Code", "Firebase", "Postman", "MS SQL Server", "Git", "Figma", "Adobe XD", "Trello", "Slack"],
   interests: ["Mobile Development", "Web Development", "Weightlifting ", "Adventure", "Automotive", "E-Gaming"],
-  challenge: "To build tools that empower communities through technology!"
+  challenge: "To end the build fast build cheap era!"
 };
 ```
 </details>
