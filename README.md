@@ -22,7 +22,7 @@ I’m a **Software Developer** specializing in **Flutter** and **React.js**, pas
     <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path d="M5 7L8 10L11 7" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
     </svg>
-    <span style="font-size: 1.2em; font-weight: bold;">Connect with me</span>
+    <span style="font-size: 20; font-weight: bold;">Connect with me</span>
   </summary>
 
   <br>
