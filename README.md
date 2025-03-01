@@ -60,6 +60,8 @@ I’m a **Software Developer** specializing in **Flutter** and **React.js**, pas
     <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter" style="max-width: 100%;"></a>
 <a href="https://react.dev/" target="_blank">
     <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React.js" style="max-width: 100%;"></a>
+<a href="https://angular.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular" style="max-width: 100%;"></a>
 <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap" style="max-width: 100%;"></a>
 <a href="https://mui.com/" target="_blank">
