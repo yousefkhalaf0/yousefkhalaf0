@@ -25,7 +25,7 @@ I’m a **Software Developer** specializing in **Flutter** and **React.js**, pas
     <h2>Connect with me</h2>
   </summary>
 
-[![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:yousefkhalaf567@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:yousef.mohamed.abdelhameed@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yousefkhalaf0)
 </details>
