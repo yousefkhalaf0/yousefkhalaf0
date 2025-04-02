@@ -126,6 +126,12 @@ I’m a **Software Developer** specializing in **Flutter** and **React.js**, pas
     <img src="https://img.shields.io/badge/Xbox-107C10?logo=xbox&logoColor=white" alt="Xbox" style="max-width: 100%;"></a>
 <a href="https://www.apple.com/itunes/" target="_blank">
     <img src="https://img.shields.io/badge/iTunes-FB5BC5?logo=itunes&logoColor=white" alt="iTunes" style="max-width: 100%;"></a>
+<a href="https://openai.com/chatgpt" target="_blank">
+    <img src="https://img.shields.io/badge/ChatGPT-412991?logo=openai&logoColor=white" alt="ChatGPT" style="max-width: 100%;"></a>
+<a href="https://app.diagrams.net/" target="_blank">
+    <img src="https://img.shields.io/badge/Draw.io-F08705?logo=draw.io&logoColor=white" alt="Draw.io" style="max-width: 100%;"></a>
+<a href="https://meet.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Meet-00897B?logo=google-meet&logoColor=white" alt="Google Meet" style="max-width: 100%;"></a>
 
 </details>
 
