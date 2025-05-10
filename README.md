@@ -128,6 +128,10 @@ I’m a **Software Developer** specializing in **Flutter** and **React.js**, pas
     <img src="https://img.shields.io/badge/iTunes-FB5BC5?logo=itunes&logoColor=white" alt="iTunes" style="max-width: 100%;"></a>
 <a href="https://openai.com/chatgpt" target="_blank">
     <img src="https://img.shields.io/badge/ChatGPT-412991?logo=openai&logoColor=white" alt="ChatGPT" style="max-width: 100%;"></a>
+<a href="https://www.anthropic.com/index/claude" target="_blank">
+  <img src="https://img.shields.io/badge/Claude-000000?logo=Anthropic&logoColor=white" alt="Claude" style="max-width: 100%;"></a>
+<a href="https://deepseek.com/" target="_blank">
+  <img src="https://img.shields.io/badge/DeepSeek-0074E4?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMiAyYy01LjUyIDAtMTAgNC40OC0xMCAxMHM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyeiIvPjwvc3ZnPg==" alt="DeepSeek" style="max-width: 100%;"></a>
 <a href="https://github.com/features/copilot" target="_blank">
     <img src="https://img.shields.io/badge/GitHub%20Copilot-5C5CFF?logo=github&logoColor=white" alt="GitHub Copilot" style="max-width: 100%;"></a>
 <a href="https://app.diagrams.net/" target="_blank">
@@ -147,12 +151,8 @@ I’m a **Software Developer** specializing in **Flutter** and **React.js**, pas
 
 ```javascript
 const yousef = {
-  pronouns: "he" | "him",
-  fullName: "Yousef Mohamed Abd El-hameed Khalaf",
-  code: ["Dart", "JavaScript", "HTML", "CSS", "C++", "C#"],
-  frameworks: ["Flutter", "React.js", "Bootstrap", "Material-UI"],
-  tools: ["Android Studio", "VS Code", "Firebase", "Postman", "MS SQL Server", "Git", "Figma", "Adobe XD", "Trello", "Slack"],
-  interests: ["Mobile Development", "Web Development", "Weightlifting ", "Adventure", "Automotive", "E-Gaming"],
+  fullName: "Yousef Mohamed Abd Elhameed Khalaf",
+  interests: ["Mobile Development", "Web Development", "Weightlifting ", "Adventure", "Automotive", "E-Gaming", "Technologies"],
   challenge: "To end the build fast build cheap era!"
 };
 ```
