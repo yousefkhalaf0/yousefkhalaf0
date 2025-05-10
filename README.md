@@ -130,8 +130,8 @@ I’m a **Software Developer** specializing in **Flutter** and **React.js**, pas
     <img src="https://img.shields.io/badge/ChatGPT-412991?logo=openai&logoColor=white" alt="ChatGPT" style="max-width: 100%;"></a>
 <a href="https://www.anthropic.com/index/claude" target="_blank">
   <img src="https://img.shields.io/badge/Claude-000000?logo=Anthropic&logoColor=white" alt="Claude" style="max-width: 100%;"></a>
-<a href="https://deepseek.com/" target="_blank">
-  <img src="https://img.shields.io/badge/DeepSeek-0074E4?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMiAyYy01LjUyIDAtMTAgNC40OC0xMCAxMHM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyeiIvPjwvc3ZnPg==" alt="DeepSeek" style="max-width: 100%;"></a>
+<a href="https://www.deepseek.com/" target="_blank">
+  <img src="https://img.shields.io/badge/DeepSeek-0074E4?logo=deepseek&logoColor=white" alt="DeepSeek" style="max-width: 100%;"></a>
 <a href="https://github.com/features/copilot" target="_blank">
     <img src="https://img.shields.io/badge/GitHub%20Copilot-5C5CFF?logo=github&logoColor=white" alt="GitHub Copilot" style="max-width: 100%;"></a>
 <a href="https://app.diagrams.net/" target="_blank">
