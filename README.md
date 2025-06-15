@@ -11,7 +11,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=yousefkhalaf0&color=000000&style=plastic)](https://github.com/yousefkhalaf0)
 
-I’m a **Software Developer** specializing in **Flutter** and **React.js**, passionate about building intuitive mobile and web applications. Detail-oriented and driven by clean, efficient code, I excel in professional, collaborative environments. With strong management and team coordination skills, I thrive on fostering positive workspaces and delivering impactful solutions. Let’s create something amazing together!
+I am a dedicated **Mobile App Developer** specializing in **Flutter**, with a passion for crafting responsive, user-friendly cross-platform applications. Skilled in building high-quality mobile solutions and leveraging a strong foundation in frontend development, including React.js and other web development frameworks. I thrive in agile teams, quickly adapt to new technologies, and am eager to solve real-world challenges with innovative, impactful Flutter-based products.
 <br>
 <a href="/Yousef Khalaf - Resume.pdf">📜 Resume</a>
 
