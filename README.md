@@ -140,6 +140,8 @@ I am a dedicated **Software Developer** specializing in **Mobile App Development
     <img src="https://img.shields.io/badge/Google%20Meet-00897B?logo=google-meet&logoColor=white" alt="Google Meet" style="max-width: 100%;"></a>
 <a href="https://core.telegram.org/bots" target="_blank">
     <img src="https://img.shields.io/badge/Telegram%20Bots-26A5E4?logo=telegram&logoColor=white" alt="Telegram Bots" style="max-width: 100%;"></a>
+<a href="https://github.com/features/actions" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions" style="max-width: 100%;"></a>
 
 </details>
 
