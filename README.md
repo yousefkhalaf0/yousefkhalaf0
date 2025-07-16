@@ -116,6 +116,8 @@ I am a dedicated **Software Developer** specializing in **Mobile App Development
     <img src="https://img.shields.io/badge/OBS-302E31?logo=obsstudio&logoColor=white" alt="OBS" style="max-width: 100%;"></a>
 <a href="https://discordapp.com/users/816659934271766579" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Discord" style="max-width: 100%;"></a>
+<a href="https://www.upwork.com/freelancers/~014925f417ef5338e8?mp_source=share" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-6fda44?logo=upwork&logoColor=white" alt="Upwork" style="max-width: 100%;"></a>
 <a href="https://steamcommunity.com/profiles/76561199136474749/" target="_blank">
     <img src="https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white" alt="Steam" style="max-width: 100%;"></a>
 <a href="https://store.epicgames.com/" target="_blank">
