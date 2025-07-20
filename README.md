@@ -98,7 +98,7 @@ I am a dedicated **Software Developer** specializing in **Mobile App Development
     <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" style="max-width: 100%;"></a>
 <a href="https://github.com/yousefkhalaf0" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub" style="max-width: 100%;"></a>
-<a href="https://stackoverflow.com/" target="_blank">
+<a href="https://stackoverflow.com/users/28607358/yousef-khalaf" target="_blank">
     <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white" alt="Stack Overflow" style="max-width: 100%;"></a>
 <a href="https://postman.com/" target="_blank">
     <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" style="max-width: 100%;"></a>
