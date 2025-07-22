@@ -159,7 +159,7 @@ I am a dedicated **Software Developer** specializing in **Mobile App Development
 const yousef = {
   fullName: "Yousef Mohamed Abd Elhameed Khalaf",
   interests: ["Mobile Development", "Web Development", "Weightlifting ", "Adventure", "Automotive", "E-Gaming", "Technologies"],
-  challenge: "To end the build fast build cheap era!"
+  mindset: "Ending the build fast build cheap era!"
 };
 ```
 </details>
