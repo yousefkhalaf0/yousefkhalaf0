@@ -106,6 +106,8 @@ I am a dedicated **Software Developer** specializing in **Mobile App Development
     <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" alt="Slack" style="max-width: 100%;"></a>
 <a href="https://trello.com/" target="_blank">
     <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white" alt="Trello" style="max-width: 100%;"></a>
+<a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" alt="Jira" style="max-width: 100%;"></a>
 <a href="https://www.figma.com/" target="_blank">
     <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma" style="max-width: 100%;"></a>
 <a href="https://www.adobe.com/" target="_blank">
