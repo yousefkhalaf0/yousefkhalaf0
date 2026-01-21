@@ -40,7 +40,7 @@ I am a dedicated **Software Engineer** specializing in **Mobile App Development*
 
 ####  Programming and Markup Languages
 
-<p align="center">
+<p align="left">
   <a href="https://isocpp.org/">
     <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=cplusplus&logoColor=white"></a>
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
